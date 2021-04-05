@@ -1,1 +1,1 @@
-"# Series of challanges to get started in RPA and Selenium" 
+Series of challanges to get started in RPA and Selenium
